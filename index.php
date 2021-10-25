@@ -43,43 +43,43 @@
       </div>
       <div class="menu_part_lux">
         <ul class="menu_list wd_scroll">
-          <li><a href="index.html">Trang chủ</a></li>
+          <li><a href="index.php">Trang chủ</a></li>
           <li>
-            <a href="index.html">Phòng chống
+            <a href="index.php">Phòng chống
               <i class="linearicons-chevron-down"></i>
             </a>
             <ul class="list">
-              <li><a href="symptom.html">Các triệu chứng thường gặp</a></li>
-              <li><a href="symptom-checker.html">Kiểm tra triệu chứng</a></li>
-              <li><a href="prevention.html">Biện pháp phòng chống</a></li>
-              <li><a href="tracker.html">Theo dõi tình hình</a></li>
-              <li><a href="faq.html">FAQs</a></li>
+              <li><a href="symptom.php">Các triệu chứng thường gặp</a></li>
+              <li><a href="symptom-checker.php">Kiểm tra triệu chứng</a></li>
+              <li><a href="prevention.php">Biện pháp phòng chống</a></li>
+              <li><a href="tracker.php">Theo dõi tình hình</a></li>
+              <li><a href="faq.php">FAQs</a></li>
             </ul>
           </li>
-          <li><a href="appointment.html">Tư vấn</a></li>
+          <li><a href="appointment.php">Tư vấn</a></li>
           <li>
             <a href="#">Giới thiệu
               <i class="linearicons-chevron-down"></i>
             </a>
             <ul class="list">
-              <li><a href="about.html">Về COVID-19</a></li>
-              <li><a href="doctors.html">Đội ngũ bác sĩ</a></li>
-              <li><a href="sample-right-sidebar.html">Tin tức</a></li>
-              <li><a href="search.html">Tìm kiếm</a></li>
+              <li><a href="about.php">Về COVID-19</a></li>
+              <li><a href="doctors.php">Đội ngũ bác sĩ</a></li>
+              <li><a href="sample-right-sidebar.php">Tin tức</a></li>
+              <li><a href="search.php">Tìm kiếm</a></li>
             </ul>
           </li>
 
           <li>
-            <a href="index.html">Tin tức
+            <a href="index.php">Tin tức
               <i class="linearicons-chevron-down"></i>
             </a>
             <ul class="list">
-              <li><a href="blog.html">Tin tức</a></li>
-              <li><a href="single-blog.html">Tin tức chi tiết</a></li>
+              <li><a href="blog.php">Tin tức</a></li>
+              <li><a href="single-blog.php">Tin tức chi tiết</a></li>
 
             </ul>
           </li>
-          <li><a href="contact.html">Liên hệ</a></li>
+          <li><a href="contact.php">Liên hệ</a></li>
         </ul>
       </div>
       <div class="menu_btm">
@@ -112,7 +112,7 @@
           </li>
         </ul>
         <div class="info_title">
-          <h2>Liên lạc</h2>
+          <h2>Liên hệ</h2>
           <p>Nếu bạn có bất kỳ câu hỏi nào trước khi chúng tôi bắt đầu, vui lòng điền vào bên dưới biểu mẫu liên hệ.</p>
         </div>
         <form action="#" class="appoinment_form js-form">
@@ -189,7 +189,7 @@
       <div class="main_menu">
         <div class="container">
           <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="index.html"><img src="assets/images/logo.png"
+            <a class="navbar-brand" href="index.php"><img src="assets/images/logo.png"
                 srcset="assets/images/logo-2x.png 2x" alt="" /></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
               aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -204,7 +204,7 @@
                   <i class="fas fa-angle-down" aria-hidden="true" data-toggle="dropdown"></i>
                   <ul class="dropdown-menu">
                     <li class="dropdown submenu">
-                      <a class="dropdown-toggle" data-toggle="dropdown" href="symptom.html" role="button"
+                      <a class="dropdown-toggle" data-toggle="dropdown" href="symptom.php" role="button"
                         aria-haspopup="true" aria-expanded="false">Các triệu chứng
                         <i class="fas fa-angle-down" aria-hidden="true"
                           data-toggle="dropdown"></i>
@@ -232,16 +232,16 @@
                   </ul>
                 </li>
                 <li class="dropdown submenu">
-                  <a class="dropdown-toggle" data-toggle="dropdown" href="blog.html" role="button" aria-haspopup="true"
+                  <a class="dropdown-toggle" data-toggle="dropdown" href="blog.php" role="button" aria-haspopup="true"
                     aria-expanded="false">Tin tức
                   </a>
                   <i class="fas fa-angle-down" aria-hidden="true" data-toggle="dropdown"></i>
                   <ul class="dropdown-menu">
-                    <li><a href="blog.html">Tin tức</a></li>
-                    <li><a href="single-blog.html">Tin tức chi tiết</a></li>
+                    <li><a href="blog.php">Tin tức</a></li>
+                    <li><a href="single-blog.php">Tin tức chi tiết</a></li>
                   </ul>
                 </li>
-                <li><a href="contact.html">Liên hệ</a></li>
+                <li><a href="contact.php">Liên hệ</a></li>
               </ul>
               <ul class="nav navbar-nav navbar-right">
                 <li class="checker_btn">
@@ -395,7 +395,7 @@
                     Nó được xác định lần đầu tiên ở Vũ Hán, tỉnh Hồ Bắc, Trung Quốc, 
                     nơi nó đã gây ra một đợt bùng phát lớn và đang diễn ra. Nó đã lan rộng hơn ở Trung Quốc.
                   </p>
-                  <a class="text_btn" href="#">Đọc thêm về <i class="linearicons-arrow-right"></i></a>
+                  <a class="text_btn" href="#">Đọc thêm về <i class="fas fa-arrow-right"></i></a>
                 </div>
               </div>
             </div>
@@ -403,8 +403,6 @@
         </div>
       </div>
     </section>
-    <!--================End Home About Area =================-->
-
     <!--================Worldwide Tracker Area =================-->
     <section class="world_wide_tracker pad_top">
       <div class="container">
@@ -565,25 +563,25 @@
                   </div>
                   <ul class="nav flex-column">
                     <li>
-                      <a href="#"><i class="linearicons-home4"></i>Ở nhà</a>
+                      <a href="#"><i class="fas fa-home"></i></i>Ở nhà là chống dịch</a>
                     </li>
                     <li>
-                      <a href="#"><i class="linearicons-desk-tape"></i>Đeo khẩu trang</a>
+                      <a href="#"><i class="fas fa-head-side-mask"></i>Đeo khẩu trang</a>
                     </li>
                     <li>
-                      <a href="#"><i class="linearicons-tissue"></i>Luôn sử dụng khăn giấy</a>
+                      <a href="#"><i class="fas fa-box-tissue"></i>Luôn sử dụng khăn giấy</a>
                     </li>
                     <li>
-                      <a href="#"><i class="linearicons-couch"></i>Khử trùng nhà của bạn</a>
+                      <a href="#"><i class="fas fa-couch"></i>Khử trùng nhà của bạn</a>
                     </li>
                     <li>
-                      <a href="#"><i class="linearicons-rain"></i>Luôn rửa tay</a>
+                      <a href="#"><i class="fas fa-hands-wash"></i>Luôn rửa tay</a>
                     </li>
                     <li>
-                      <a href="#"><i class="linearicons-thermometer"></i>Tự cách li</a>
+                      <a href="#"><i class="fas fa-thermometer"></i>Tự cách ly</a>
                     </li>
                     <li>
-                      <a href="#"><i class="linearicons-bottle"></i>Ăn uống lành mạnh.</a>
+                      <a href="#"><i class="fas fa-prescription-bottle-alt"></i>Ăn uống lành mạnh.</a>
                     </li>
                     
                   </ul>
@@ -597,37 +595,37 @@
                   </div>
                   <ul class="nav flex-column">
                     <li>
-                      <a href="#"><i class="linearicons-man-woman"></i>Không tụ tập</a>
+                      <a href="#"><i class="fas fa-people-arrows"></i>Không tụ tập đông người</a>
                     </li>
                     <li>
-                      <a href="#"><i class="linearicons-paw"></i>Tránh động vật</a>
+                      <a href="#"><i class="fas fa-paw"></i>Tránh động vật</a>
                     </li>
                     <li>
-                      <a href="#"><i class="linearicons-woman"></i>Không đưa tay lên mặt</a>
+                      <a href="#"><i class="fas fa-fist-raised"></i>Không đưa tay lên mặt</a>
                     </li>
                     <li>
-                      <a href="#"><i class="linearicons-hand"></i>Không bắt tay</a>
+                      <a href="#"><i class="fas fa-handshake-slash"></i>Không bắt tay</a>
                     </li>
                     <li>
-                      <a href="#"><i class="linearicons-chair"></i>Tránh tiếp xúc các bề mặt</a>
+                      <a href="#"><i class="fas fa-chair"></i>Tránh tiếp xúc các bề mặt</a>
                     </li>
                     <li>
-                      <a href="#"><i class="linearicons-drop-crossed"></i>Tránh các giọt bắn</a>
+                      <a href="#"><i class="fas fa-tint-slash"></i>Tránh các giọt bắn</a>
                     </li>
                     <li>
-                      <a href="#"><i class="linearicons-plane-crossed"></i>Không đi du lịch</a>
+                      <a href="#"><i class="fas fa-plane-slash"></i>Không đi du lịch</a>
                     </li>
                   </ul>
                 </div>
               </div>
             </div>
             <div class="protect_self_text">
-              <h3>Tự cách li tại nhà như thế nào?</h3>
+              <h3>Tự cách ly tại nhà như thế nào?</h3>
               <p>
                 Nếu bạn cần phải tự cách li, bạn nên hành động ngay lập tức. Bạn phải ở trong nhà và tránh tiếp xúc với người khác.
               </p>
               <a class="text_btn" href="#">Bạn có thể tự bảo vệ mình bằng cách nào khác?
-                <i class="linearicons-arrow-right"></i></a>
+                <i class="fas fa-arrow-right"></i></a>
             </div>
           </div>
           <div class="col-lg-6">
@@ -821,10 +819,12 @@
     <!--================End Prevent Area =================-->
 
     <!--================Answers Area =================-->
-    <section class="answers_area p_100">
+    
+    <!--================End Home About Area =================-->
+    <section class="faq_area">
       <div class="container">
         <div class="main_title">
-          <h5>Bạn có câu hỏi nào? Hãy tìm kiếm câu trả lời!</h5>
+          <h5>Có một vài câu hỏi? Tìm câu trả lời!</h5>
           <h2>Các câu hỏi thường gặp</h2>
         </div>
         <div class="row answer_inner">
@@ -835,8 +835,8 @@
                   <div class="card-header" id="headingOne">
                     <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne"
                       aria-expanded="true" aria-controls="collapseOne">
-                      Đại dịch
-                      <i class="linearicons-chevron-down"></i>
+                      Đại dịch
+                      <i class="fas fa-chevron-down"></i>
                     </button>
                   </div>
 
@@ -846,59 +846,19 @@
                       <ul class="nav nav-tabs" id="myTab" role="tablist">
                         <li class="nav-item">
                           <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab"
-                            aria-controls="home" aria-selected="true">Vi-rút Corona là gì?</a>
+                            aria-controls="home" aria-selected="true">Coronavirus là gì?</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab"
-                            aria-controls="profile" aria-selected="false">Nhiễm COVID-19 như thế nào?</a>
+                            aria-controls="profile" aria-selected="false">Sự khác biệt giữa COVID-19 và bệnh cúm là gì?</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab"
-                            aria-controls="contact" aria-selected="false">Sự khác biệt giữa COVID-19 và bệnh cúm là gì?</a>
+                            aria-controls="contact" aria-selected="false">Virus lây lan như thế nào?</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" id="four-tab" data-toggle="tab" href="#four" role="tab"
-                            aria-controls="four" aria-selected="false">Virus lây lan như thế nào?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="five-tab" data-toggle="tab" href="#five" role="tab"
-                            aria-controls="five" aria-selected="false">Các triệu chứng như thế nào?</a>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="card-header" id="headingTwo">
-                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                      data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                      Giới thiệu về COVID-19
-                      <i class="linearicons-chevron-down"></i>
-                    </button>
-                  </div>
-                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                    <div class="card-body">
-                      <ul class="nav nav-tabs" id="myTab2" role="tablist">
-                        <li class="nav-item">
-                          <a class="nav-link" id="home2-tab" data-toggle="tab" href="#home2" role="tab"
-                            aria-controls="home2" aria-selected="true">Vi-rút Corona là gì?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="profile2-tab" data-toggle="tab" href="#profile2" role="tab"
-                            aria-controls="profile2" aria-selected="false">Nhiễm COVID-19 như thế nào?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="contact2-tab" data-toggle="tab" href="#contact2" role="tab"
-                            aria-controls="contact2" aria-selected="false">Sự khác biệt giữa COVID-19 và bệnh cúm là gì?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="four2-tab" data-toggle="tab" href="#four2" role="tab"
-                            aria-controls="four2" aria-selected="false">Virus lây lan như thế nào?
-</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="five2-tab" data-toggle="tab" href="#five2" role="tab"
-                            aria-controls="five2" aria-selected="false">Các triệu chứng như thế nào?</a>
+                            aria-controls="four" aria-selected="false">Các triệu chứng như thế nào?</a>
                         </li>
                       </ul>
                     </div>
@@ -908,8 +868,8 @@
                   <div class="card-header" id="headingThree">
                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                       data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                      Bảo vệ chống lại COVID-19
-                      <i class="linearicons-chevron-down"></i>
+                     Triệu chứng Coronavirus
+                      <i class="fas fa-chevron-down"></i>
                     </button>
                   </div>
                   <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
@@ -918,23 +878,23 @@
                       <ul class="nav nav-tabs" id="myTab3" role="tablist">
                         <li class="nav-item">
                           <a class="nav-link" id="home3-tab" data-toggle="tab" href="#home3" role="tab"
-                            aria-controls="home3" aria-selected="true">Vi-rút Corona là gì?</a>
+                            aria-controls="home3" aria-selected="true">Sự khác biệt giữa COVID-19 & bệnh cúm?</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" id="profile3-tab" data-toggle="tab" href="#profile3" role="tab"
-                            aria-controls="profile3" aria-selected="false">Nhiễm COVID-19 như thế nào?</a>
+                            aria-controls="profile3" aria-selected="false">Triệu chứng gây ra bởi virus SARS-CoV-2 qua từng ngày?</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" id="contact3-tab" data-toggle="tab" href="#contact3" role="tab"
-                            aria-controls="contact3" aria-selected="false">Sự khác biệt giữa COVID-19 và bệnh cúm là gì?</a>
+                            aria-controls="contact3" aria-selected="false">Biểu hiện của bệnh COVID-19 có sổ mũi không?</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" id="four3-tab" data-toggle="tab" href="#four3" role="tab"
-                            aria-controls="four3" aria-selected="false">Virus lây lan như thế nào?</a>
+                            aria-controls="four3" aria-selected="false">Biểu hiện sớm nhất của bệnh COVID-19 gây ra bởi virus SARS-CoV-2 là gì?</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" id="five3-tab" data-toggle="tab" href="#five3" role="tab"
-                            aria-controls="five3" aria-selected="false">Các triệu chứng như thế nào?</a>
+                            aria-controls="five3" aria-selected="false">Triệu chứng của COVID-19 có nghẹt mũi không?</a>
                         </li>
                       </ul>
                     </div>
@@ -944,162 +904,28 @@
                   <div class="card-header" id="headingfour">
                     <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                       data-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
-                      Sắp xếp công việc và đi lại
-                      <i class="linearicons-chevron-down"></i>
+                      Nguồn gốc dịch bệnh COVID-19
+                      <i class="fas fa-chevron-down"></i>
                     </button>
                   </div>
                   <div id="collapsefour" class="collapse" aria-labelledby="headingfour" data-parent="#accordionExample">
                     <div class="card-body">
                       <ul class="nav nav-tabs" id="myTab4" role="tablist">
                         <li class="nav-item">
-                          <a class="nav-link" id="home4-tab" data-toggle="tab" href="#home4" role="tab"
-                            aria-controls="home4" aria-selected="true">What are
-                            coronaviruses?</a>
-                        </li>
-                        <li class="nav-item">
                           <a class="nav-link" id="profile4-tab" data-toggle="tab" href="#profile4" role="tab"
-                            aria-controls="profile4" aria-selected="false">What is the COVID-19 virus?</a>
+                            aria-controls="profile4" aria-selected="false">Hệ gen của virus Corona 2019 là gì?</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" id="contact4-tab" data-toggle="tab" href="#contact4" role="tab"
-                            aria-controls="contact4" aria-selected="false">What is the difference between COVID-19
-                            and
-                            the
-                            flu?</a>
+                            aria-controls="contact4" aria-selected="false">Vi rút SARS-CoV-2 được phát hiện khi nào?</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" id="four4-tab" data-toggle="tab" href="#four4" role="tab"
-                            aria-controls="four4" aria-selected="false">How is
-                            the virus spread?</a>
+                            aria-controls="four4" aria-selected="false">Thời gian ủ bệnh virus SARS-CoV-2</a>
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" id="five4-tab" data-toggle="tab" href="#five4" role="tab"
-                            aria-controls="five4" aria-selected="false">What are
-                            the symptoms?</a>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="card-header" id="headingfive">
-                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                      data-target="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
-                      Về trường đại học và trường các cấp
-                      <i class="linearicons-chevron-down"></i>
-                    </button>
-                  </div>
-                  <div id="collapsefive" class="collapse" aria-labelledby="headingfive" data-parent="#accordionExample">
-                    <div class="card-body">
-                      <ul class="nav nav-tabs" id="myTab5" role="tablist">
-                        <li class="nav-item">
-                          <a class="nav-link" id="home5-tab" data-toggle="tab" href="#home5" role="tab"
-                            aria-controls="home5" aria-selected="true">What are
-                            coronaviruses?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="profile5-tab" data-toggle="tab" href="#profile5" role="tab"
-                            aria-controls="profile5" aria-selected="false">What is the COVID-19 virus?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="contact5-tab" data-toggle="tab" href="#contact5" role="tab"
-                            aria-controls="contact5" aria-selected="false">What is the difference between COVID-19
-                            and
-                            the
-                            flu?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="four5-tab" data-toggle="tab" href="#four5" role="tab"
-                            aria-controls="four5" aria-selected="false">How is
-                            the virus spread?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="five5-tab" data-toggle="tab" href="#five5" role="tab"
-                            aria-controls="five5" aria-selected="false">What are
-                            the symptoms?</a>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="card-header" id="headingsix">
-                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                      data-target="#collapsesix" aria-expanded="false" aria-controls="collapsesix">
-                     Cách li tại nhà
-                      <i class="linearicons-chevron-down"></i>
-                    </button>
-                  </div>
-                  <div id="collapsesix" class="collapse" aria-labelledby="headingsix" data-parent="#accordionExample">
-                    <div class="card-body">
-                      <ul class="nav nav-tabs" id="myTab6" role="tablist">
-                        <li class="nav-item">
-                          <a class="nav-link" id="home6-tab" data-toggle="tab" href="#home6" role="tab"
-                            aria-controls="home6" aria-selected="true">What are
-                            coronaviruses?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="profile6-tab" data-toggle="tab" href="#profile6" role="tab"
-                            aria-controls="profile6" aria-selected="false">What is the COVID-19 virus?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="contact6-tab" data-toggle="tab" href="#contact6" role="tab"
-                            aria-controls="contact6" aria-selected="false">What is the difference between COVID-19
-                            and
-                            the
-                            flu?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="four6-tab" data-toggle="tab" href="#four6" role="tab"
-                            aria-controls="four6" aria-selected="false">How is
-                            the virus spread?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="five6-tab" data-toggle="tab" href="#five6" role="tab"
-                            aria-controls="five6" aria-selected="false">What are
-                            the symptoms?</a>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="card">
-                  <div class="card-header" id="headingseven">
-                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
-                      data-target="#collapseseven" aria-expanded="false" aria-controls="collapseseven">
-                      Dãn cách xã hội
-                      <i class="linearicons-chevron-down"></i>
-                    </button>
-                  </div>
-                  <div id="collapseseven" class="collapse" aria-labelledby="headingseven"
-                    data-parent="#accordionExample">
-                    <div class="card-body">
-                      <ul class="nav nav-tabs" id="myTab7" role="tablist">
-                        <li class="nav-item">
-                          <a class="nav-link" id="home7-tab" data-toggle="tab" href="#home7" role="tab"
-                            aria-controls="home7" aria-selected="true">What are
-                            coronaviruses?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="profile7-tab" data-toggle="tab" href="#profile7" role="tab"
-                            aria-controls="profile7" aria-selected="false">What is the COVID-19 virus?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="contact7-tab" data-toggle="tab" href="#contact7" role="tab"
-                            aria-controls="contact7" aria-selected="false">What is the difference between COVID-19
-                            and
-                            the
-                            flu?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="four7-tab" data-toggle="tab" href="#four7" role="tab"
-                            aria-controls="four7" aria-selected="false">How is
-                            the virus spread?</a>
-                        </li>
-                        <li class="nav-item">
-                          <a class="nav-link" id="five7-tab" data-toggle="tab" href="#five7" role="tab"
-                            aria-controls="five7" aria-selected="false">What are
-                            the symptoms?</a>
+                            aria-controls="five4" aria-selected="false">Nguyên nhân nhiễm vi rút SARS-CoV-2</a>
                         </li>
                       </ul>
                     </div>
@@ -1111,1241 +937,158 @@
           <div class="col-lg-8">
             <div class="tab-content answer_details" id="myTabContent">
               <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-                <h4>What are coronaviruses?</h4>
+                <h4>Virus Corona là gì?</h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
+                  Virus Corona 2019 là nhóm các virus thuộc phân họ Coronavirinae trong họ Coronaviridae, của bộ Nidovirales. Coronavirus là hệ gen ARN dương sợi đơn kèm nucleocapsid đối xứng xoắn ốc. Bộ gen của Coronavirus lớn khoảng từ 26 – 32 kilo base.
                 </p>
                 <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
+                  Tên gọi vi rút Corona 2019 có nguồn gốc từ tiếng Latin, trong đó “corona” có nghĩa là “vương miện” hoặc “hào quang”. Virus này có những chiếc gai bao bọc bên ngoài, chúng tương tác với thụ thể trên tế bào, theo cơ chế tương tự chìa khóa và ổ khóa, từ đó cho phép virus xâm nhập vào bên trong. Virus Corona chủng mới là SARS-CoV-2 chưa từng xuất hiện ở người.
                 </p>
               </div>
               <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-                <h4>What is the COVID-19 virus?</h4>
+                <h4>Sự khác biệt giữa COVID-19 và bệnh cúm là gì?</h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
+                  COVID-19 và bệnh cúm đều là những bệnh truyền nhiễm đường hô hấp do virus gây ra. COVID-19 do virus SARS-CoV-2 gây ra, trong khi bệnh cúm do virus cúm A và B. Những virus này lây lan theo những cách tương tự.
                 </p>
                 <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
+                 COVID-19 và bệnh cúm gây ra các triệu chứng tương tự. Các bệnh này cũng có thể không gây ra triệu chứng hoặc các triệu chứng nhẹ hoặc nghiêm trọng. Vì có nhiều điểm tương đồng, khó có thể chẩn đoán bạn mắc bệnh nào nếu chỉ dựa vào các triệu chứng. Xét nghiệm có thể được thực hiện để xem liệu bạn có bị nhiễm COVID-19 hay bệnh cúm hay không. Bạn cũng có thể mắc cả hai bệnh cùng một lúc. Tuy nhiên, chúng vẫn có một số khác biệt.
                 </p>
                 <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
+                  Các triệu chứng COVID-19 thường xuất hiện từ 2 đến 14 ngày sau khi tiếp xúc với SARS-CoV-2. Các triệu chứng cúm thường xuất hiện khoảng 1 đến 4 ngày sau khi tiếp xúc với virus cúm.COVID-19 có thể gây ra các bệnh nghiêm trọng hơn ở một số người so với bệnh cúm. Ngoài ra, COVID-19 có thể gây ra các biến chứng khác với bệnh cúm, chẳng hạn như cục máu đông và hội chứng viêm đa hệ ở trẻ em.
                 </p>
                 <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
+                  Mặc dù chỉ có một phương pháp điều trị kháng virus COVID-19, nhưng có một số loại thuốc kháng virus có thể được sử dụng để điều trị bệnh cúm. Ngoài ra, bạn có thể tiêm phòng cúm hàng năm để giúp giảm nguy cơ mắc bệnh cúm. Thuốc chủng ngừa cúm cũng có thể làm giảm mức độ nghiêm trọng của bệnh cúm và nguy cơ biến chứng nghiêm trọng. Vaccine có thể được tiêm dưới dạng tiêm hoặc xịt mũi.
                 </p>
               </div>
               <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                <h4>What is the difference between COVID-19 and the flu?</h4>
+                <h4>Virus lây lan như thế nào</h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
+                  Các virus nói chung và virus SARS-CoV-2 nói riêng, trong quá trình lưu hành, sau nhiều lần sao chép và nhân bản có thể xuất hiện những biến đổi trong cấu trúc của gen, nghĩa là có sự thay đổi ở một hoặc một số vị trí trên bộ gen di truyền so với bộ gen ban đầu của virus, điều này được gọi là đột biến gen.
                 </p>
                 <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
+                  Khi quá trình lây nhiễm tăng nhanh, quá trình virus sao chép và nhân bản cũng gia tăng, các đột biến gen của virus có cơ hội xuất hiện nhiều hơn, dẫn đến khả năng xuất hiện biến thể cao hơn. 
                 </p>
               </div>
               <div class="tab-pane fade" id="four" role="tabpanel" aria-labelledby="four-tab">
-                <h4>How is the virus spread?</h4>
+                <h4>Triệu chứng của bệnh COVID-19?</h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
+                  Trong giai đoạn đầu của đại dịch, người ta cho rằng sổ mũi không phải là triệu chứng của COVID-19, nhiều khả năng là dấu hiệu của bệnh cúm thông thường. Tuy nhiên, từ dữ liệu của các cuộc nghiên cứu sau này cho thấy, sổ mũi, ngạt mũi, chảy nước mũi có thể xuất hiện ở bệnh nhân COVID-19, đặc biệt là những bệnh nhân nhiễm biến thể Delta.
                 </p>
                 <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
+                  Sau thời gian ủ bệnh (trong khoảng từ 2 đến 14 ngày), các triệu chứng nhiễm COVID 19 bắt đầu xuất hiện như ho khan và sốt nhẹ. Sốt được xác định nghi ngờ COVID 19 là từ 38,1oC – 39oC hay 100,5oF – 102,1oF, thường kèm theo giảm chức năng vị giác và khứu giác.
                 </p>
                 <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
+                  Bệnh nhân sẽ được điều trị và cách ly tại nhà nếu các triệu chứng ở mức độ nhẹ hoặc trung bình và tự khỏi trong 1 tuần. Khoảng 10% người bệnh vẫn còn những triệu chứng sốt, mệt mỏi, ho, tiêu chảy… vào tuần thứ hai. Nếu các triệu chứng càng kéo dài càng xuất hiện thêm nhiều triệu chứng tăng nặng, đòi hỏi người bệnh phải nhập viện, hồi sức tích cực và thở máy xâm lấn. COVID 19 có diễn tiến khó đoán, đặc biệt là ở bệnh nhân lớn tuổi có bệnh nền đi kèm. Biểu hiện lâm sàng thay đổi từ hoàn toàn không có triệu chứng đến triệu chứng nặng và tử vong.
                 </p>
                 <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="five" role="tabpanel" aria-labelledby="five-tab">
-                <h4>What are the symptoms?</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="home2" role="tabpanel" aria-labelledby="home2-tab">
-                <h4>What are coronaviruses? 1</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="profile2" role="tabpanel" aria-labelledby="profile2-tab">
-                <h4>What is the COVID-19 virus? 2</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="contact2" role="tabpanel" aria-labelledby="contact2-tab">
-                <h4>
-                  What is the difference between COVID-19 and the flu? 3
-                </h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="four2" role="tabpanel" aria-labelledby="four2-tab">
-                <h4>How is the virus spread? 4</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="five2" role="tabpanel" aria-labelledby="five2-tab">
-                <h4>What are the symptoms? 5</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
+                  Đại dịch COVID-19 do virus SARS CoV 2 chủ yếu gây ra hội chứng hô hấp cấp tính nghiêm trọng. Mặc dù vậy, COVID-19 vẫn được ghi nhận với nhiều biến chứng của COVID-19 thường gặp như nhức đầu, chóng mặt, thay đổi ý thức, rối loạn khứu giác, rối loạn vị giác, co giật và đột quỵ.
                 </p>
               </div>
               <div class="tab-pane fade" id="home3" role="tabpanel" aria-labelledby="home3-tab">
-                <h4>What are coronaviruses? 1</h4>
+                <h4>ự khác nhau giữa mắc COVID-19, cảm lạnh, dị ứng và cảm cúm là gì?</h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
+                  Cả COVID-19 và cảm lạnh thông thường đều do virus gây ra. COVID-19 do SARS-CoV-2 gây ra, trong khi cảm lạnh thông thường thường do rhinovirus gây ra. Những virus này lây lan theo những cách tương tự nhau và gây ra nhiều dấu hiệu và triệu chứng giống nhau. Tuy nhiên, có một vài điểm khác biệt.
                 </p>
                 <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
+                 Trong khi các triệu chứng COVID-19 thường xuất hiện từ 2 đến 14 ngày sau khi tiếp xúc với SARS-CoV-2, các triệu chứng của cảm lạnh thông thường thường xuất hiện từ 1 đến 3 ngày sau khi tiếp xúc với virus gây cảm lạnh.Không có thuốc chữa cảm lạnh thông thường. Điều trị có thể bao gồm thuốc giảm đau và thuốc trị cảm lạnh không kê đơn, chẳng hạn như thuốc thông mũi. Không giống như COVID-19, cảm lạnh thường vô hại. Hầu hết mọi người đều hồi phục sau cảm lạnh thông thường trong vòng 3 đến 10 ngày.
                 </p>
               </div>
               <div class="tab-pane fade" id="profile3" role="tabpanel" aria-labelledby="profile3-tab">
-                <h4>What is the COVID-19 virus? 2</h4>
+                <h4> Triệu chứng gây ra bởi virus SARS-CoV-2 qua từng ngày</h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
+                  Tùy theo thể trạng và sức đề kháng, triệu chứng nhiễm corona qua từng ngày của mỗi cá thể là khác nhau, tuy nhiên những triệu chứng này đều biểu hiện rõ từ 2-14 ngày. Do đó, ngay khi có các dấu hiệu nghi ngờ, người bệnh cần đến ngay các cơ sở y tế gần nhất để được chẩn đoán kịp thời.Ngày 1 đến ngày 3:Dấu hiệu giống bệnh cảm thông thườngViêm họng nhẹ, không sốt, không mệt mỏi Ăn uống và hoạt động bình thường.Ngày 4:Cổ họng bắt đầu đau nhẹ, người lờ đờ.Bắt đầu khan tiếng.Nhiệt độ cơ thể tăng nhẹ.Đau đầu nhẹ, tiêu chảy nhẹ.Bắt đầu chán ăn.Ngày 5:Đau họng nhiều hơn, khan tiếng nhiều hơn.Nhiệt độ cơ thể tăng nhẹCơ thể mệt mỏi, đau nhức các khớp xương.Ngày 6:Triệu chứng gây ra bởi virus SARS-CoV-2 là bắt đầu sốt nhẹ.Ho có đàm hoặc ho khan không đàm.Đau họng nhiều hơn, đau khi nuốt nước bọt, khi ăn hoặc nói.Cơ thể mệt mỏi, buồn nôn.Tiêu chảy, có thể nôn ói.Lưng hoặc ngón tay đau nhức.Ngày 7:Sốt cao dưới 38o Ho nhiều hơn, đàm nhiều hơn.Toàn thân đau nhức.Khó thở.Tiêu chảy và nôn ói nhiều hơn.Ngày 8:Sốt khoảng trên dưới 38o.Khó thở, hơi thở khò khè, nặng lồng ngực.Ho liên tục, đàm nhiều, tắt tiếng.Đau khớp xương, đau đầu, đau lưng.Ngày 9:Các tình trạng như sốt, ho, khó thở, nặng lồng ngực… trở nên nặng nề hơn.
                 </p>
               </div>
               <div class="tab-pane fade" id="contact3" role="tabpanel" aria-labelledby="contact3-tab">
-                <h4>
-                  What is the difference between COVID-19 and the flu? 3
-                </h4>
+                <h4>Biểu hiện của bệnh COVID-19 có sổ mũi không? </h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
+                  Trong giai đoạn đầu của đại dịch, người ta cho rằng sổ mũi không phải là triệu chứng của COVID-19, nhiều khả năng là dấu hiệu của bệnh cúm thông thường. Tuy nhiên, từ dữ liệu của các cuộc nghiên cứu sau này cho thấy, sổ mũi, ngạt mũi, chảy nước mũi có thể xuất hiện ở bệnh nhân COVID-19, đặc biệt là những bệnh nhân nhiễm biến thể Delta.
                 </p>
                 <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
+                  Theo báo cáo của Tổ chức Y tế Thế giới (WHO), khoảng 5% bệnh nhân mắc Corona virus có triệu chứng nghẹt mũi. Đây không phải là dấu hiệu phổ biến nhất của bệnh, nhưng đây là triệu chứng dễ gây nhầm lẫn với cảm lạnh và cúm. Trên thực tế, nhiều dấu hiệu COVID 19 giống với bệnh cúm như đau đầu, đau nhức cơ thể, mệt mỏi. Một số triệu chứng khác có thể giống như cảm lạnh hoặc dị ứng, như đau họng, ho, sốt và nghẹt mũi.
                 </p>
                 <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
+                  Báo cáo đưa ra bởi Tổ chức Y tế Thế giới (WHO) cho thấy, trong số 55.924 người mắc COVID 19 được theo dõi, hơn 33% bệnh nhân có biểu hiện ho ra đờm, chất nhầy dày được tạo ra từ phổi. Triệu chứng ho của COVID 19 không phải là hiện tượng ngứa cổ họng khiến người bệnh hắng giọng, cũng không chỉ là do kích thích, mà cơn ho này xuất phát từ vùng ức và các ống phế quản bị viêm rất khó chịu.
                 </p>
                 <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
+                  Đau họng, ho khan, thậm chí có đờm đặc và bọt, khả năng cao là một trong những triệu chứng điển hình, nghiêm trọng và phổ biến của COVID-19. Dấu hiệu COVID đau họng thường dễ bị nhầm lẫn với đau họng thông thường. Đau họng do bệnh COVID không có hiệu quả điều trị khi uống các thuốc đau họng thông thường. Do đó, nếu cảm thấy ho nhiều, kéo dài, uống thuốc hoặc điều trị tại nhà không đỡ, kết hợp với triệu chứng sốt, khó thở, người bệnh cần đi khám sức khỏe ngay tại các cơ sở khám, chữa bệnh được Nhà nước, Bộ Y tế chỉ định.
                 </p>
               </div>
               <div class="tab-pane fade" id="four3" role="tabpanel" aria-labelledby="four3-tab">
-                <h4>How is the virus spread? 4</h4>
+                <h4>Biểu hiện sớm nhất của bệnh COVID-19 gây ra bởi virus SARS-CoV-2 là gì?</h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
+                  Theo cảnh báo từ Trung tâm Kiểm soát và Phòng ngừa dịch bệnh Hoa Kỳ (CDC Hoa Kỳ), khi mắc COVID 19, một hoặc tất cả các triệu chứng đều có thể xuất hiện bất cứ lúc nào trong vòng 2-14 ngày sau khi tiếp xúc với virus SARS-CoV-2. Theo đó, các biểu hiện sớm nhất để phát hiện bệnh là:
                 </p>
                 <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
+                <ul>
+                  <il> Sốt: Sốt là dấu hiệu nhận biết corona đầu tiên. Hầu hết trẻ em và người lớn sẽ được xác định là sốt khi nhiệt độ vượt mức 38oC. Các chuyên gia khuyến cáo, bệnh nhân không nên dựa vào nhiệt độ đo buổi sáng vì sốt do virus thường khiến thân nhiệt tăng vào cuối buổi chiều và đầu buổi tối.</il>
+                  <il>Ho khan: Ho là một triệu chứng COVID 19 sớm và phổ biến nhất. Ho do COVID 19 gây ra sẽ không thể điều trị dứt điểm khi uống thuốc ho thông thường. </il>
+                  <il>Mệt mỏi: Mệt mỏi, kiệt sức, đau nhức cơ thể là biểu hiện COVID 19 sớm. Nghiên cứu của WHO cho thấy, khoảng 40% trong số gần 6.000 người mắc bệnh trải qua giai đoạn mệt mỏi. Trạng thái này thậm chí còn kéo dài ngay sau khi COVID 19 kết thúc một vài tuần. </il>
+               </ul>
+             </p>
               </div>
               <div class="tab-pane fade" id="five3" role="tabpanel" aria-labelledby="five3-tab">
-                <h4>What are the symptoms? 5</h4>
+                <h4>Triệu chứng của COVID-19 có nghẹt mũi không?</h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="home4" role="tabpanel" aria-labelledby="home4-tab">
-                <h4>What are coronaviruses? 1</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
+                  Theo báo cáo của Tổ chức Y tế Thế giới (WHO), khoảng 5% bệnh nhân mắc Corona virus có triệu chứng nghẹt mũi. Đây không phải là dấu hiệu phổ biến nhất của bệnh, nhưng đây là triệu chứng dễ gây nhầm lẫn với cảm lạnh và cúm. Trên thực tế, nhiều dấu hiệu COVID 19 giống với bệnh cúm như đau đầu, đau nhức cơ thể, mệt mỏi. Một số triệu chứng khác có thể giống như cảm lạnh hoặc dị ứng, như đau họng, ho, sốt và nghẹt mũi.
+                </p>  
               </div>
               <div class="tab-pane fade" id="profile4" role="tabpanel" aria-labelledby="profile4-tab">
-                <h4>What is the COVID-19 virus? 2</h4>
+                <h4>Hệ gen của virus Corona 2019 là gì?</h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
+                  Bộ gen của virus Corona 2019 là bộ gen lớn nhất trong số các virus RNA, bao gồm các vùng: vùng 5’UTR, khung đọc mở, vùng 3’UTR và cuối cùng là đuôi-poly (A).
                 </p>
                 <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
+                  Theo các nghiên cứu, bộ gen của virus Corona 2019 có các mặt tương đồng như sau:
+                </p>
+                <ul>
+                  <il>Tương đồng 50% mã gen so với chủng virus MERS-CoV;</il>
+                  <il>Tương đồng 79,5% mã gen so với chủng virus SARS-CoV;</il>
+                  <il>Tương đồng 96% mã gen so với chủng virus Corona được phát hiện trong dơi, đặc biệt là dơi móng ngựa;</il>
+                  <il>Tương đồng 99% mã gen so với chủng virus Corona có trong loài Tê tê.</il>
+                </ul>
+                <p>
+                  Khi phân tích vi rút Corona 2019, các nhà khoa học nhận thấy vi rút Corona cùng loài với virus gây bệnh SARS vào năm 2003 với độ tương đồng lên đến 94.6% các chuỗi axit amin.
                 </p>
                 <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
+                  Trong bộ gen của vi rút Corona 2019 có một gen thiết yếu là RdRp (RNA phụ thuộc RNA polymerase), gen này có độ bảo tồn cao, được dùng để chẩn đoán phát hiện vi rút Corona.
                 </p>
               </div>
               <div class="tab-pane fade" id="contact4" role="tabpanel" aria-labelledby="contact4-tab">
                 <h4>
-                  What is the difference between COVID-19 and the flu? 3
+                 Vi rút SARS-CoV-2 được phát hiện khi nào?
                 </h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
+                  Bùng phát vào cuối tháng 12/2019, bắt nguồn từ một chợ hải sản ở Hồ Nam, Vũ Hán, miền Trung Trung Quốc, virus SARS-CoV-2 ban đầu được xác nhận là một loại bệnh “viêm phổi lạ” hoặc “viêm phổi không rõ nguyên nhân”. Chỉ sau 100 ngày xuất hiện, đại dịch viêm đường hô hấp cấp do virus SARS-CoV-2 đã nhanh chóng tác động tới các lĩnh vực kinh tế, xã hội, thị trường tài chính chao đảo, nền kinh tế toàn cầu rơi vào suy thoái với tỷ lệ thất nghiệp và nghèo đói chưa từng có trong lịch sử.
                 </p>
                 <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
+                  Cho đến nay, đã có 215 quốc gia, vùng lãnh thổ (trong đó có 2 tàu du lịch) ghi nhận ca mắc COVID-19.
                 </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
+                
               </div>
               <div class="tab-pane fade" id="four4" role="tabpanel" aria-labelledby="four4-tab">
-                <h4>How is the virus spread? 4</h4>
+                <h4>Thời gian ủ bệnh virus SARS-CoV-2</h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
+                  Theo CDC Mỹ, các triệu chứng COVID-19 thường xuất hiện từ ngày thứ 2 – 14 sau khi nhiễm virus tùy thuộc vào từng cá thể, trung bình là 5 ngày. Riêng với biến thể Delta, thời gian ủ bệnh ngắn, chỉ khoảng 2 – 4 ngày. Trong thời gian này, virus vẫn có thể truyền bệnh cho người khác
                 </p>
                 <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
+                  1. Đối với Coronavirus :Các ước tính hiện tại cho thấy, các chủng virus Corona chẳng hạn như MERS và SARS có thời gian ủ bệnh khoảng 2-11 ngày. Giống như các bệnh về đường hô hấp khác, sau khi hết giai đoạn ủ bệnh, người nhiễm Coronavirus sẽ xuất hiện các triệu chứng gồm sổ mũi, đau họng, ho và sốt… Bệnh có thể diễn tiến nặng ở một số người khi gây ra viêm phổi cấp. Nguy hiểm hơn, Covid-19 có thể nhanh chóng gây tử vong cho đối tượng nguy cơ cao như người già, người mắc bệnh mạn tính (tiểu đường, tim mạch, ung thư, viêm phổi tắc nghẽn mãn tính COPD…).
                 </p>
                 <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
+                  2. Đối với chủng mới: Viêm đường hô hấp cấp do virus Corona chủng mới có thể xuất hiện các triệu chứng sau thời gian ủ bệnh kéo dài từ 2 đến 14 ngày, trung bình là 5 ngày. Trong thời gian này, virus vẫn có thể truyền bệnh cho người khác. Mặc dù vậy, nhiều nghiên cứu cũng chỉ ra rằng, sẽ có một số ít trường hợp thời gian ủ bệnh Sars-Cov 2 có thể kéo dài hơn 14 ngày. Nghiên cứu  được thực hiện bởi Trường Y tế Cộng đồng Johns Hopkins Bloomberg (Mỹ) cho thấy, trong số 10.000 đối tượng bị nhiễm Covid-19 thì có khoảng 101 trường hợp xuất hiện các triệu chứng đầu tiên sau 14 ngày. Do đó, các chuyên gia cho rằng các việc tiếp xúc với người không có biểu hiện bệnh không có nghĩa là an toàn. Nói cách khác, Covid-19 có thể lây nhiễm ngay cả trước khi các triệu chứng đầu tiên xuất hiện.
                 </p>
               </div>
               <div class="tab-pane fade" id="five4" role="tabpanel" aria-labelledby="five4-tab">
-                <h4>What are the symptoms? 5</h4>
+                <h4>Nguyên nhân nhiễm vi rút SARS-CoV-2</h4>
                 <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="home5" role="tabpanel" aria-labelledby="home5-tab">
-                <h4>What are coronaviruses? 1</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="profile5" role="tabpanel" aria-labelledby="profile5-tab">
-                <h4>What is the COVID-19 virus? 2</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="contact5" role="tabpanel" aria-labelledby="contact5-tab">
-                <h4>
-                  What is the difference between COVID-19 and the flu? 3
-                </h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="four5" role="tabpanel" aria-labelledby="four5-tab">
-                <h4>How is the virus spread? 4</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="five5" role="tabpanel" aria-labelledby="five5-tab">
-                <h4>What are the symptoms? 5</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="home6" role="tabpanel" aria-labelledby="home6-tab">
-                <h4>What are coronaviruses? 1</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="profile6" role="tabpanel" aria-labelledby="profile6-tab">
-                <h4>What is the COVID-19 virus? 2</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="contact6" role="tabpanel" aria-labelledby="contact6-tab">
-                <h4>
-                  What is the difference between COVID-19 and the flu? 3
-                </h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="four6" role="tabpanel" aria-labelledby="four6-tab">
-                <h4>How is the virus spread? 4</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="five6" role="tabpanel" aria-labelledby="five6-tab">
-                <h4>What are the symptoms? 5</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="home7" role="tabpanel" aria-labelledby="home7-tab">
-                <h4>What are coronaviruses? 1</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="profile7" role="tabpanel" aria-labelledby="profile7-tab">
-                <h4>What is the COVID-19 virus? 2</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="contact7" role="tabpanel" aria-labelledby="contact7-tab">
-                <h4>
-                  What is the difference between COVID-19 and the flu? 3
-                </h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="four7" role="tabpanel" aria-labelledby="four7-tab">
-                <h4>How is the virus spread? 4</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
-                <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
-                </p>
-                <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
-                </p>
-              </div>
-              <div class="tab-pane fade" id="five7" role="tabpanel" aria-labelledby="five7-tab">
-                <h4>What are the symptoms? 5</h4>
-                <p>
-                  The first symptoms of COVID-19 and influenza (flu)
-                  infections are often very similar. They both cause fever and
-                  similar respiratory symptoms, which can then range from mild
-                  through to severe disease, and sometimes can be fatal.
-                </p>
-                <p>
-                  Both viruses are also transmitted in the same way, by
-                  coughing or sneezing, or by contact with hands, surfaces or
-                  objects contaminated with the virus. As a result, the same
-                  public health measures, such as hand hygiene (hand washing),
-                  good respiratory etiquette (coughing into your elbow or into
-                  a tissue and immediately disposing of the tissue) and good
-                  household cleaning are important actions to prevent both
-                  infections.
-                </p>
+                  Người bị nhiễm virus SARS-CoV-2 là từ người tiếp xúc với các giọt dịch hô hấp của cơ thể của người có mầm bệnh khi hắt hơi, ho hoặc thở ra. Các nhà khoa học và quan chức có trách nhiệm đã xác nhận ba cách lây truyền: truyền trực tiếp, truyền tiếp xúc và truyền khí dung.
                 <p>
-                  The speed of transmission is an important difference between
-                  the two viruses. Influenza typically has a shorter
-                  incubation period (the time from infection to appearance of
-                  symptoms) than COVID-19. This means that influenza can
-                  spread faster than COVID-19.
+                  Trung tâm kiểm soát và phòng ngừa dịch bệnh Hoa Kỳ (CDC) đã đưa ra danh sách những người có nguy cơ cao nhất nhiễm vi rút Corona. Đây là nhóm đối tượng cực kỳ nhạy cảm và dễ tử vong do virus Corona gồm cả trẻ em, người lớn, người cao tuổi, phụ nữ có thai, người có tiền sử bệnh, người bị suy giảm miễn dịch hoặc có các bệnh lý nền (bệnh tim, bệnh phổi mạn tính, suy giảm miễn dịch, béo phì, đái tháo đường…).
                 </p>
                 <p>
-                  While the range of symptoms for the two viruses is similar,
-                  the fraction with severe disease appears to be higher for
-                  COVID-19. While most people have mild symptoms,
-                  approximately 15% of people have severe infections and 5%
-                  require intensive care in a hospital ICU. The proportions of
-                  severe and critical COVID-19 infections are higher than for
-                  influenza infections.
+                  Người bệnh có thể lây truyền virus ngay cả khi họ không có triệu chứng điển hình. Cần xác định người bệnh bằng xét nghiệm, cách ly, và chăm sóc y tế, tùy thuộc vào mức độ nghiêm trọng. Thậm chí, người đã được xác định mắc COVID-19 nhưng không biểu hiện triệu chứng cũng cần được cách ly và thực hiện nghiêm túc các biện pháp giãn cách, kiểm soát để hạn chế tiếp xúc với người khác nhằm ngăn chặn sự lây lan của bệnh.  
                 </p>
+                
               </div>
             </div>
           </div>
@@ -2373,7 +1116,9 @@
 
     //2.Viet cau lenh truy van lay ra duoc DL mong muon(Tin tuc da luu trong csdl)
         //truy vấn tin tức mới nhất
-         $sql1=" SELECT * FROM tbl_tin_tuc ORDER BY tin_tuc_id DESC ";
+        
+         $sql1=" SELECT * FROM tbl_tin_tuc JOIN tbl_tin_tuc_hashtag ON tbl_tin_tuc.hashtag_id=tbl_tin_tuc_hashtag.hashtag_id 
+              ORDER BY tin_tuc_id DESC ";
 
          //truy vấn tin tức nhiều người xem nhất
         $sql2=" SELECT *
@@ -2406,18 +1151,18 @@
               </div>
               <div class="l_blog_text">
                 <div class="date">
-                  <a href="#"><i class="linearicons-calendar-full"></i> <?php echo date("d/m/Y H:i",strtotime($row1["ngay_dang_tin"]));?> </a>
-                  <a href="#"><i class="linearicons-bubbles"></i>  <?php echo $row1["so_lan_doc"];?> lượt đọc</a>
+                  <a href="#"><i class="far fa-calendar-alt"></i> <?php echo date("d/m/Y ",strtotime($row1["ngay_dang_tin"]));?> </a>
+                  <a href="#"><i class="far fa-eye"></i>  <?php echo $row1["so_lan_doc"];?> lượt đọc</a>
                 </div>
                 <div class="blog_btm_text">
-                  <div class="tag"><?php echo $row1["the_loai"];?></div>
+                  <div class="tag"><?php echo $row1["ten_hashtag"];?></div>
                   <div class="author">
                     <a href="#">by <?php echo $row1["tac_gia"];?></a>
                   </div>
                   <a href="#">
                     <h3><?php echo $row1["tieu_de"];?></h3>
                   </a>
-                  <a class="text_btn" href="#">Đọc thêm <i class="linearicons-arrow-right"></i></a>
+                  <a class="text_btn" href="#">Đọc thêm <i class="fas fa-arrow-right"></i></a>
                 </div>
               </div>
             </div>
@@ -2429,8 +1174,8 @@
               </div>
               <div class="l_blog_text">
                 <div class="date">
-                  <a href="#"><i class="linearicons-calendar-full"></i> <?php echo date("d/m/Y H:i",strtotime($row2["ngay_dang_tin"]));?></a>
-                  <a href="#"><i class="linearicons-bubbles"></i> <?php echo $row2["so_lan_doc"];?> lượt đọc</a>
+                  <a href="#"><i class="far fa-calendar-alt"></i> <?php echo date("d/m/Y ",strtotime($row2["ngay_dang_tin"]));?></a>
+                  <a href="#"><i class="far fa-eye"></i> <?php echo $row2["so_lan_doc"];?> lượt đọc</a>
                 </div>
                 <a href="#">
                   <h3><?php echo $row2["tieu_de"];?></h3>
@@ -2444,8 +1189,8 @@
               </div>
               <div class="l_blog_text">
                 <div class="date">
-                  <a href="#"><i class="linearicons-calendar-full"></i> <?php echo date("d/m/Y H:i",strtotime($row3["ngay_dang_tin"]));?></a>
-                  <a href="#"><i class="linearicons-bubbles"></i> <?php echo $row3["so_lan_doc"];?> lượt đọc</a>
+                  <a href="#"><i class="far fa-calendar-alt"></i> <?php echo date("d/m/Y ",strtotime($row3["ngay_dang_tin"]));?></a>
+                  <a href="#"><i class="far fa-eye"></i> <?php echo $row3["so_lan_doc"];?> lượt đọc</a>
                 </div>
                 <a href="#">
                   <h3><?php echo $row3["tieu_de"];?></h3>
@@ -2603,145 +1348,84 @@
 
     <!--================Footer Area =================-->
     <footer class="footer_area">
-
       <div class="footer_widgets_area pad_top">
         <div class="container">
           <div class="row">
-            <div class="col-lg-3 col-md-6 col-sm-6">
+            <div class="col-lg-4">
               <aside class="f_widget contact_widget">
                 <div class="f_title">
-                  <h3>Liên hệ</h3>
+                  <h3>Liên hệ</h3>
                 </div>
                 <div class="ct_wd_text">
                   <div class="media">
-                    <div class="d-flex">
-                      <i class="linearicons-telephone"></i>
-                    </div>
+                   
                     <div class="media-body">
-                      <h5>Cuộc gọi khẩn cấp</h5>
-                      <a href="tel:+(84)368121201">
-                        <h4> 036 812 1201</h4>
+                      <h5>Cuộc gọi khẩn cấp</h5>
+                        <h4>024 3825 5599</h4>
                       </a>
                     </div>
                   </div>
                   <div class="media">
-                    <div class="d-flex">
-                      <i class="linearicons-map-marker"></i>
-                    </div>
+                   
                     <div class="media-body">
-                      <p>
-                        Phòng 102, Trụ sở <br>Trung tâm ý tế HANL, <br>12 Chùa Bộc, Đống Đa, Hà Nội
+                      <h5>Địa chỉ</h5>
+                      <p>36 Ngô Quyền, phường Hàng Bài,
+                        </br> quận Hoàn Kiếm, Hà Nội
                       </p>
                     </div>
                   </div>
-                  <div class="media">
-                    <div class="d-flex">
-                      <i class="fab fa-skype"></i>
-                    </div>
-                    <div class="media-body">
-                      <a href="skype:md.rocky79">
-                        <h6>Skype ID: <span>epidemic.org</span></h6>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="media">
-                    <div class="d-flex">
-                      <i class="linearicons-envelope-open"></i>
-                    </div>
-                    <div class="media-body">
-                      <a href="mailto:rockybd1995@gmail.com">
-                        <h6>Email: <span>hi@epidemic.org</span></h6>
-                      </a>
-                    </div>
-                  </div>
                 </div>
               </aside>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-6">
+            
+            <div class="col-lg-4 item-tk">
               <aside class="f_widget list_widget">
                 <div class="f_title">
-                  <h3>Phòng chống</h3>
+                  <h3>Thống kê</h3>
                 </div>
                 <ul class="nav flex-column">
                   <li>
-                    <a href="#"><i class="linearicons-radio-button"></i>Các triệu chứng thường gặp</a>
+                    <a href="#"><i class="linearicons-radio-button"></i>Số lượt đang truy cập</a>
                   </li>
                   <li>
-                    <a href="#"><i class="linearicons-radio-button"></i>Cách phòng tránh</a>
+                    <a href="#"><i class="linearicons-radio-button"></i>Tổng số lượt truy cập</a>
                   </li>
-                  <li>
-                    <a href="#"><i class="linearicons-radio-button"></i>Sự truyền nhiễm</a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="linearicons-radio-button"></i>Nhận tư vấn từ bác sĩ</a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="linearicons-radio-button"></i>Thông tin về COVID-19</a>
-                  </li>
+                  
                 </ul>
               </aside>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 col-6">
-              <aside class="f_widget list_widget">
-                <div class="f_title">
-                  <h3>Thống kê</h3>
+            <div class="col-lg-4">
+             <div class="gg-fb">
+                <div>
+                  <div class="fb-page page-fb" data-href="https://www.facebook.com/trungtamytequanhoankiem36ngoquyen" data-tabs="timeline" data-width="270" data-height="152" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/trungtamytequanhoankiem36ngoquyen" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/trungtamytequanhoankiem36ngoquyen">Trung Tâm Y Tế Quận Hoàn Kiếm:36 Ngô Quyền</a></blockquote></div>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.2281567295654!2d105.85251131402812!3d21.023554993333946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abec902b9623%3A0xdfe9443e9ca77d59!2zVHJ1bmcgVMOibSBZIFThur8gUXXhuq1uIEhvw6BuIEtp4bq_bSAzNg!5e0!3m2!1svi!2s!4v1634628981628!5m2!1svi!2s" width="270" height="150" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                  </div>
                 </div>
-                <ul class="nav flex-column">
-                  <li>
-                    <a href="#"><i class="linearicons-radio-button"></i>Số lượt đang truy cập:</a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="linearicons-radio-button"></i>Tổng số lượt truy cập:</a>
-                  </li>
-                </ul>
-              </aside>
-            </div>
-            <div class="col-lg-3 col-md-6 col-sm-6">
-              <aside class="f_widget about_widget">
-                <div class="f_title">
-                  <h3>COVID-19</h3>
                 </div>
-                <p>
-                  Căn bệnh này lần đầu tiên được xác định vào năm 2019 tại Vũ Hán, thủ phủ của Hồ Bắc, Trung Quốc và kể từ đó đã lây lan ra toàn cầu, dẫn đến đại dịch coronavirus 2020–2021.
-                </p>
-                <ul class="nav">
-                  <li>
-                    <a href="#"><i class="fab fa-facebook"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-youtube"></i></a>
-                  </li>
-                  <li>
-                    <a href="#"><i class="fab fa-vimeo-v"></i></a>
-                  </li>
-                </ul>
-              </aside>
-            </div>
-          </div>
-        </div>
+           
+                   </div>
       </div>
       <div class="footer_copyright">
-                        <img src="assets/images/f-logo.png" alt="">
-                        <p>© Copyright
-                            <script>
-                                document.write(new Date().getFullYear());
-                            </script> Epidemic Organisation Ltd.</p>
-                        <ul class="nav">
-                            <li><a href="#">Điều khoản sử dụng</a></li>
-                            <li><a href="#">Chính sách bảo mật</a></li>
-                            <li><a href="#">Dấu ấn</a></li>
-                        </ul>
-                        <h6>
-                            Designed with <i class="linearicons-heart"></i>
-                            by <span>nhóm HANL</span>
-                        </h6>
-                    </div>
+        <div class="container">
+          <img src="assets/images/f-logo.png" alt="" />
+          <p>
+            © Copyright
+            <script>
+              document.write(new Date().getFullYear());
+            </script>
+            Epidemic Organisation Ltd.
+          </p>
+          <ul class="nav">
+            <li><a href="#">Điều khoản sử dụng</a></li>
+            <li><a href="#">Chính sách bảo mật</a></li>
+            <li><a href="#">Dấu ấn</a></li>
+          </ul>
+          <h6>
+            Designed<i class="linearicons-heart"></i> by
+            <span>Nhóm HANL</span>
+          </h6>
+        </div>
+      </div>
     </footer>
     <!--================End Footer Area =================-->
   </div>
@@ -2754,11 +1438,9 @@
       <div class="modal-content">
         <div class="modal-body">
           <div class="input-group">
-            <input type="text" class="form-control" placeholder="Type here..." aria-label="Recipient's username"
-              aria-describedby="button-addon3">
+            <input type="text" class="form-control" placeholder="Nội dung tìm kiếm..." aria-label="Recipient's username">
             <div class="input-group-append">
-              <button class="btn btn-outline-secondary" type="button" id="button-addon3"><i
-                  class="linearicons-magnifier"></i></button>
+              <button class="btn btn-outline-secondary" type="button"><i class="linearicons-magnifier"></i></button>
             </div>
           </div>
         </div>
@@ -2775,12 +1457,14 @@
   <script src="assets/vendors/isotop/imagesloaded.pkgd.min.js"></script>
   <script src="assets/vendors/isotop/isotope.pkgd.min.js"></script>
   <script src="assets/vendors/slick/slick.min.js"></script>
-  <script src="assets/vendors/scroll-animation/jquery.parallax-scroll.js"></script>
-  <script src="assets/vendors/scroll-animation/parallax.js"></script>
+  <script src="assets/vendors/datetimepicker/moment.js"></script>
+  <script src="assets/vendors/datetimepicker/tempusdominus-bootstrap-4.min.js"></script>
   <script src="assets/vendors/mCustomScrollbar/jquery.mCustomScrollbar.concat.min.js"></script>
   <script src="assets/vendors/animate-css/wow.min.js"></script>
+  <script src="assets/vendors/scroll-animation/jquery.parallax-scroll.js"></script>
   <script src="assets/js/jquery.validate.min.js"></script>
   <script src="assets/js/theme.js"></script>
-</body>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v12.0" nonce="XVpXxaji"></script>
+  </body>
 
 </html>
